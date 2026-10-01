@@ -1,0 +1,5 @@
+V001|BA 12 PA 1234|Toyota|Corolla|Sedan|2022|3000|Rented
+V002|BA 45 PA 5678|Honda|Civic|Sedan|2021|2500|Available
+V003|BA 67 PA 9012|Hyundai|Creta|SUV|2023|3500|Rented
+V004|BA 23 PA 4567|Honda|Dio|Bike|2022|800|Available
+V005|BA 89 PA 2345|Royal Enfield|Classic|Bike|2020|1200|Available

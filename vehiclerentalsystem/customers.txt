@@ -1,0 +1,4 @@
+C001|Hari Prasad|9812345678|hari@gmail.com|Kathmandu|01-12345
+C002|Gagan Thapa|9845678901|gagan1@gmail.com|Pokhara|02-23456
+C003|Jenny Gurung|9856789012|jenny@gmail.com|Chitwan|03-34567
+C004|Anisha Karki|9867890123|anisha@gmail.com|Bhaktapur|04-45678s
